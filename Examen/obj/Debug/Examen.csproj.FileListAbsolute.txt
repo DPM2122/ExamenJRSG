@@ -1,0 +1,6 @@
+C:\Users\desmp\source\repos\ExamenJRSG\Examen\bin\Debug\Examen.dll
+C:\Users\desmp\source\repos\ExamenJRSG\Examen\bin\Debug\Examen.pdb
+C:\Users\desmp\source\repos\ExamenJRSG\Examen\obj\Debug\Examen.csproj.AssemblyReference.cache
+C:\Users\desmp\source\repos\ExamenJRSG\Examen\obj\Debug\Examen.csproj.CoreCompileInputs.cache
+C:\Users\desmp\source\repos\ExamenJRSG\Examen\obj\Debug\Examen.dll
+C:\Users\desmp\source\repos\ExamenJRSG\Examen\obj\Debug\Examen.pdb
