@@ -26,15 +26,7 @@ namespace TestExamen
             Assert.AreEqual(ResBilletes10, prueba.Billetes10, "Error");
         }
 
-        [TestMethod]
-        [ExpectedException(typeof(ArgumentOutOfRangeException), NoMultiplo10)]
-        public void PruebaCantidadNoValida()
-        {
-            Billetes prueba = new Billetes();
-            int cantidad = 581;
-            prueba.EstablecerCantidad(cantidad);
-        }
-
+      
         [TestMethod]
         public void PruebaCantidadNoValidaTryCatch()
         {
